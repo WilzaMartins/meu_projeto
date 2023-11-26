@@ -1,1 +1,4 @@
 Esta é uma linha de texto
+Linha escrita na main
+Linha escrita na outra branch
+Linha escrita no repositório local
